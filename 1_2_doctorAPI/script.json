@@ -1,0 +1,26 @@
+{
+  "TableName": "Customers",
+  "Item": {
+    "referenceId": {
+      "S": "1234"
+    },
+    "patientName": {
+      "S": "John Doe"
+    },
+    "PatientDOB": {
+      "S": "13th July 2021"
+    },
+    "PatientVaccination": {
+      "B": "true"
+    },
+    "PatientVacDate": {
+      "S": "13th July 2021"
+    },
+    "PatientTest": {
+      "B": "true"
+    },
+    "PatientTestDate": {
+      "S": "10th July 2021"
+    }
+  }
+}

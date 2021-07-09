@@ -8,4 +8,4 @@
 
 3. Generate a Covid Passport based on the Information collected from 2 nodes.
 
-4. Store CovidPassport to VaxPass_Database
+4. Store CovidPassport to student_register

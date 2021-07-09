@@ -1,0 +1,15 @@
+{
+  "name": "3_vaxpassgenerator_ec2",
+  "version": "1.0.0",
+  "description": "1. Get Data from StudentInput_Database // OSHC Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

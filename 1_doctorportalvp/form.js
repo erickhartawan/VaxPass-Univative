@@ -1,7 +1,7 @@
 $(document).ready(function () {
   $("form").submit(function (event) {
     var formData = {
-      ReferenceID: $("#referenceid").val(),
+      passportnum: $("#passportnum").val(),
       patientname: $("#patientname").val(),
       patientdob: $("#patientdob").val(),
       patientvacc: $("#patientvacc").val(),
@@ -9,7 +9,6 @@ $(document).ready(function () {
       patienttestresult: $("#patienttestresult").val(),
       patienttestresult: $("#patienttestresult").val(),
     };
-    console.log(formData.ReferenceID);
     console.log(formData);
 
     $.ajax({
@@ -19,7 +18,7 @@ $(document).ready(function () {
       contentType: "application/json",
       dataType: "json",
       encode: true,
-    }).done(function (datya) {
+    }).done(function (data) {
       console.log(data);
     });
 

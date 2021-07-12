@@ -8,4 +8,4 @@
 
    Data from form is send to a database for storage or another processing nodes that scrap the required data and store in the db
 
-2. Towards OSHC providers server for further processing and out of the scope of the project
+~~2. Towards OSHC providers server for further processing and out of the scope of the project~~

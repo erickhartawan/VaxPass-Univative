@@ -1,3 +1,4 @@
-# Alt-H1
+# Vaxpass
 
-A simple form that is sent to the student during enrolment process for student to upload their vaccination documents and test results
+![VaxPass Graph](AWS_structure.png)
+by Team 12 Macquarie University partnered with AWS
